@@ -1,0 +1,9 @@
+*
+!.gitignore
+!pack.toml
+!index.toml
+!mods/
+!mods/*.pw.toml
+!mods/tl_skin_cape*.jar
+!config/
+!config/**

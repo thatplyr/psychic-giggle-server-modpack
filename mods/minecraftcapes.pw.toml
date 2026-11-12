@@ -1,0 +1,13 @@
+name = "MinecraftCapes"
+filename = "MinecraftCapes Fabric 1.21.3-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/PbiLV32Z/MinecraftCapes%20Fabric%201.21.3-1.1.0.jar"
+hash-format = "sha512"
+hash = "5325da8aa84fc07c8d8845b28d9014b224744f060d3f137f0f7d06fa6070daae8f2516121556c0b2e9d1537a4f76c2760a2a560c9d4d971cfacb472490056889"
+
+[update]
+[update.modrinth]
+mod-id = "9gNVPfzw"
+version = "PbiLV32Z"

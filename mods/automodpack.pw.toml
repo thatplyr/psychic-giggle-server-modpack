@@ -1,0 +1,13 @@
+name = "AutoModpack"
+filename = "automodpack-mc1.21.3-fabric-4.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/vFeEYusV/automodpack-mc1.21.3-fabric-4.0.7.jar"
+hash-format = "sha512"
+hash = "1fad0f4033e5f62f79d64b57f010eb1e10e8c9c8c87673d905e72bc0ac1807073d789b4e31ff44b62dadda90b4db4a3da5fe5319cfbc5277acc6803349ef918f"
+
+[update]
+[update.modrinth]
+mod-id = "k68glP2e"
+version = "vFeEYusV"

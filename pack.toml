@@ -1,0 +1,13 @@
+name = "Splinecart Server, WorldEdit"
+author = "thatplyr, austineendaya"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ae7b8f1af856dfe28631f297037a8dc3cd963ab143c1196550ab08ebe0de3676"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.3"
