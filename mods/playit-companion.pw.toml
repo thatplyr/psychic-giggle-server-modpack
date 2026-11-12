@@ -1,0 +1,13 @@
+name = "Playit Companion"
+filename = "playit_companion-fabric-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/og7kbNBC/versions/INhQGdVE/playit_companion-fabric-0.1.1.jar"
+hash-format = "sha512"
+hash = "7ce4a9df496ff1db9363ee708d76d5e2e9b1cf24325c2998eb2abecec3e3d3ed734bb6448ad19bc25d1adb04a406a3a7ce6f96f3848b6ba68da581d5f3b57df8"
+
+[update]
+[update.modrinth]
+mod-id = "og7kbNBC"
+version = "INhQGdVE"

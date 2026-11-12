@@ -657,6 +657,11 @@ hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
+file = "mods/playit-companion.pw.toml"
+hash = "2a90ca6ab123250c83557ce1aef7f183a9f630b6d57c116d62734d38abee595a"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "6a4b1120695a7c97e759c277e1a275f5442859d4031edb670248d8803dc0377b"
 metafile = true
