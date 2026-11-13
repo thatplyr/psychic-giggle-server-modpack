@@ -1,6 +1,6 @@
 name = "Advancement Plaques"
 filename = "AdvancementPlaques-1.21.3-fabric-1.6.7.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9NM0dXub/versions/6kga99AZ/AdvancementPlaques-1.21.3-fabric-1.6.7.jar"

@@ -1,6 +1,6 @@
 name = "MinecraftCapes"
 filename = "MinecraftCapes Fabric 1.21.3-1.1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/PbiLV32Z/MinecraftCapes%20Fabric%201.21.3-1.1.0.jar"

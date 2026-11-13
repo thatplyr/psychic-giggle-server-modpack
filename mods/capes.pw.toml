@@ -1,6 +1,6 @@
 name = "Capes"
 filename = "capes-1.5.4+1.21.2-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/mkf1dFwO/capes-1.5.4%2B1.21.2-fabric.jar"

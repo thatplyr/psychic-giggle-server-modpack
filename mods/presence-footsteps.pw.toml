@@ -1,6 +1,6 @@
 name = "Presence Footsteps"
 filename = "PresenceFootsteps-1.11.2+1.21.3.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/n7vQoJyx/PresenceFootsteps-1.11.2%2B1.21.3.jar"

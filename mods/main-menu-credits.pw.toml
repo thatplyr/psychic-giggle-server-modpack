@@ -1,6 +1,6 @@
 name = "Main Menu Credits"
 filename = "main-menu-credits-1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qJDfP7WN/versions/eUN0SbET/main-menu-credits-1.2.0.jar"

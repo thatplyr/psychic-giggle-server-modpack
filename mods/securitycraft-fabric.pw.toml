@@ -1,0 +1,13 @@
+name = "SecurityCraft (Fabric)"
+filename = "[1.21.3] SecurityCraft-fabric-V0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a86347831cb7e0261cfe073061793d42a90dea75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9352946
+project-id = 1615498
