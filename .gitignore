@@ -7,3 +7,5 @@
 !mods/tl_skin_cape*.jar
 !config/
 !config/**
+
+!.gitattributes

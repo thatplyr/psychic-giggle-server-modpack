@@ -182,7 +182,7 @@ hash = "2bc6cd359931f730a45310fa9bd0b091a6178c9f3c1cc1d6ea29cc3cd43ca9d3"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "6ea2f47eb65bbe4748436282dd94f8b8f787708590323f9cc5a7cb4719078e9c"
+hash = "b6072562a4b18866c482b9adc06beac663e02ee98336206bc547b6610be12cf6"
 
 [[files]]
 file = "eula.txt"
@@ -421,8 +421,36 @@ file = "logs/2026-11-12-6.log.gz"
 hash = "9fb60d85ac9d8e1b399d568406d5bf8245f1a9aa7d665b23650490968cd47a2c"
 
 [[files]]
+file = "logs/2026-11-13-1.log.gz"
+hash = "53a3be016312efc3acf4ac808fea4c46f0b888ad6ee3a79c740a6d32901f5696"
+
+[[files]]
+file = "logs/2026-11-13-2.log.gz"
+hash = "a439b1ec40c03026b9fff5dfc89d2621e283cdf2154789643d00c4b5ce35d599"
+
+[[files]]
+file = "logs/2026-11-13-3.log.gz"
+hash = "1ff1a3bfacc2d4730cfa1d2ef83f01f943223e3ddeb349d63ce458a2f1c61fd1"
+
+[[files]]
+file = "logs/2026-11-13-4.log.gz"
+hash = "22f4628e9501d109777630be0fe744608d94c42c4ad51de4cfc89054954dbb91"
+
+[[files]]
+file = "logs/2026-11-13-5.log.gz"
+hash = "1aa5ebb1806704af546affdb329bfa9760d3610bf11b6bfa5152e6c1d06bf5c0"
+
+[[files]]
+file = "logs/2026-11-13-6.log.gz"
+hash = "c64220b35efd40ba3ab4bb021c340b11fd891360c141c3902fda75bc713edb5d"
+
+[[files]]
+file = "logs/2026-11-13-7.log.gz"
+hash = "a3d6d11f84899bc2d91dca08bda52764941629e73be680dd63db22fd5c74526b"
+
+[[files]]
 file = "logs/latest.log"
-hash = "a49b611caa9a3f0c95b69e7b3e3e20f42dc785ddeac1e7c908fd7a52dca11b79"
+hash = "7ae684520c225de04ac4697832d53dfb59b8e1d38cdbdaffa0fa299bd1a021e8"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -806,15 +834,15 @@ hash = "e153b89b02c0839cdf5e8c1d57c80dd42a3fffb80c60817632080c041bf8afb5"
 
 [[files]]
 file = "server.properties"
-hash = "f07ccde623fa3a6ce5d663eb328dfa7321cd46e55321659f287619b30e53bf25"
+hash = "7b97d899935679ed6c799b88f6b3601bb7eadc3b9a9ef5b400a561949e56523d"
 
 [[files]]
 file = "start.bat"
-hash = "076d186b14d9ff70d48971dffab8d8f1b2061e92feeeb1fbd95683794ff28558"
+hash = "b0204de9db334c75e4dfff49c06825a1de0c410e479fed25fdfdcfe772dfd31f"
 
 [[files]]
 file = "usercache.json"
-hash = "1db28376d688a55276d138425e524e1082a3fc23c6e68ad547cc14ff5277c2a9"
+hash = "b1efe7329a6b0da46a30cf3ce9a4691807ff53e20c15895554453396828f17cb"
 
 [[files]]
 file = "versions/1.21.3/server-1.21.3.jar"
@@ -826,23 +854,23 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "world/DIM-1/data/raids.dat"
-hash = "e3a723ae03199ef607b5083a35bebb7d1654a89019a58a6f7dd8e6c3abddad71"
+hash = "c49ca9b742462016bb3593942eb3990553bb2be138ecc1867ad721aee9da25a8"
 
 [[files]]
 file = "world/DIM1/data/raids_end.dat"
-hash = "e3a723ae03199ef607b5083a35bebb7d1654a89019a58a6f7dd8e6c3abddad71"
+hash = "c49ca9b742462016bb3593942eb3990553bb2be138ecc1867ad721aee9da25a8"
 
 [[files]]
 file = "world/advancements/63a808b6-f722-36d5-86b7-dc417392a5dc.json"
-hash = "7d195dd21435fb208b4a0dd2cdf422e6f2233158d88c80f29ce81348b8331663"
+hash = "d9c0b39d3db844c4726e70ddd6aa5c97875dd569767ce6e3533a15e124f6f518"
 
 [[files]]
 file = "world/data/raids.dat"
-hash = "e3a723ae03199ef607b5083a35bebb7d1654a89019a58a6f7dd8e6c3abddad71"
+hash = "c49ca9b742462016bb3593942eb3990553bb2be138ecc1867ad721aee9da25a8"
 
 [[files]]
 file = "world/data/random_sequences.dat"
-hash = "2a0550d31cf817f71b82f5ac7d0255184c19844541c0dffc5e34b7349d231583"
+hash = "2e5c0473fd9f867f245c8065c5025f9dce2ef905c2367960ae8cabf32b8260d8"
 
 [[files]]
 file = "world/data/scoreboard.dat"
@@ -854,31 +882,31 @@ hash = "b0218127ff057b4f1ce1e25e801b0c38641427daf49c59f8c8c466696e21b928"
 
 [[files]]
 file = "world/entities/r.-1.0.mca"
-hash = "4dd225de9847dd77fbfd0fb26d66c308224da083268e3ee13267f5ee25fbc857"
+hash = "74df42239328cb4f45cf471088e205923372611fb33f1ecc40448a93aaca6419"
 
 [[files]]
 file = "world/entities/r.0.-1.mca"
-hash = "1872a8d3c7536818b6f23f3f53a27fe6331ff8b1dfc9b29b6779e336f5c03876"
+hash = "2da45a54cb42fed1073499a140747289b1cece8689ed27520d90ea8588583335"
 
 [[files]]
 file = "world/entities/r.0.0.mca"
-hash = "1d68db3541c3549b8b5aa657423dd5ff344fa206616dcb67267d7102e565d61d"
+hash = "aa241746e0f4896b03430ea145e17321b9967ac45b8343691858505a77234c02"
 
 [[files]]
 file = "world/level.dat"
-hash = "8da9fcc28c5632c7b8bc34a0c595484aae05bb107ba1c347a6f7f32cfe4a8000"
+hash = "a2fc46375d3c850e9b222a7e839750f3b7cefbec1e2a90c68afee40592f81189"
 
 [[files]]
 file = "world/level.dat_old"
-hash = "ca8bb6f47184b93c80b2fb7a959cc6272c255410df7bedc2bd33f16a541190f6"
+hash = "d128432b68858229e732b97e8075010c1498cb41dbe13f5a41b926d14cae9d47"
 
 [[files]]
 file = "world/playerdata/63a808b6-f722-36d5-86b7-dc417392a5dc.dat"
-hash = "86db7bccbcf7a4f1201a5a324f6c80cb891fa495f54e3303c7a5c3b414963a95"
+hash = "723c528602f22497184f9507e427934c09accf4bb76c505445ebdb8f402a2a69"
 
 [[files]]
 file = "world/playerdata/63a808b6-f722-36d5-86b7-dc417392a5dc.dat_old"
-hash = "26b893d81f8499e2fbf667c1cf07c5afc82cd679600fc36e2c2dafee05ef42f6"
+hash = "91988e61a7eb8bd98981d3627837f09cdb285b757cc74640d7f3b7c5905fc841"
 
 [[files]]
 file = "world/poi/r.-1.-1.mca"
@@ -906,11 +934,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "world/region/r.-1.-1.mca"
-hash = "14b8f49f07a30a7577b34dbfc0953c2030e571e621e5e1ac5baa5768e8667f1a"
+hash = "f93cde66b8800880445059bfc286bf032548aba0981be5ac47f94b8bd96a0531"
 
 [[files]]
 file = "world/region/r.-1.0.mca"
-hash = "5ca610fedee1f921186ab2eafa9493466e8733438f2189a0f9a4394aa305b945"
+hash = "4a991958f78788d6330f3e1aca36fdfeab85c3b95ed496fb13332becbe675df6"
 
 [[files]]
 file = "world/region/r.-1.1.mca"
@@ -918,11 +946,11 @@ hash = "6470b1db1f310428e2f38d8e05724d25bd859c2af436252560c67cfcaf689ee4"
 
 [[files]]
 file = "world/region/r.0.-1.mca"
-hash = "baa238154a6888adc8e0903e7e2cfb08b5750d10a9a06adbf0ffb1907a31f568"
+hash = "12cc7e70be8dc597da9d4d547ed51c8f17a86da868735fe225129c6f97a7b20c"
 
 [[files]]
 file = "world/region/r.0.0.mca"
-hash = "f077c6fd3be9eb9d18df13f81f8b6e0f81423c993ca9eea5b5b0a1e524eaa01c"
+hash = "0c2b525d292232225d9b631080ddb10499af263d245dd9663d332cf9591e585f"
 
 [[files]]
 file = "world/region/r.0.1.mca"
@@ -934,4 +962,4 @@ hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 
 [[files]]
 file = "world/stats/63a808b6-f722-36d5-86b7-dc417392a5dc.json"
-hash = "66acc28de55cb30d7d8a5135b228f44fcb6fc828de581f6ffec2297217f4b696"
+hash = "611b4b09a2f325b756b26ca115d5b56fc2630628b929d7af887d92ca9b256a0d"
